@@ -770,6 +770,10 @@ a.btn:hover {
     .ezuca-stats .stats-count {
         width: 100%;
     }
+    .about-section
+    {
+        padding-bottom: 7rem;
+    }
 }
 
 .ezuca-stats .stats-count span {
