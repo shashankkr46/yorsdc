@@ -1225,6 +1225,17 @@ a.btn:hover {
     width: calc(100% / 4 - 10px);
     margin-bottom: 7px;
 }
+.batch
+{
+    font-weight: normal;
+    font-size: 2em;
+}
+.batch-small
+{
+    font-size: 1em;
+    font-weight: normal;
+    color: black;
+}
 
 @media screen and (max-width: 1200px) {
     .gallery-grid1x1 {
@@ -2836,4 +2847,8 @@ p.footer-copyright {
 
 .footer-bar-nav ul li a:hover {
     color: #34d986;
+}
+.foot-add
+{
+    padding-top: 1rem;
 }
