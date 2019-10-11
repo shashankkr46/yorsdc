@@ -760,12 +760,21 @@ a.btn:hover {
     margin-left: 6.6rem;
     margin-right: 6.6rem;
 }
+.feature-course-img-2
+{
+    margin-left: 6.4rem;
+    margin-right: 6.4rem;
+}
 .feature-course-btn-1
 {
     padding-right: 3rem;
     padding-left: 3.2rem;
     margin-left: 0rem;
     cursor: pointer;
+}
+.new-course-wrap
+{
+    padding-top: 2.2rem;
 }
 
 
