@@ -755,12 +755,29 @@ a.btn:hover {
 .featured-courses.horizontal-column .course-ratings {
     margin-bottom: 8px;
 }
+.feature-course-img-1
+{
+    margin-left: 6.6rem;
+    margin-right: 6.6rem;
+}
+.feature-course-btn-1
+{
+    padding-right: 3rem;
+    padding-left: 3.2rem;
+    margin-left: 0rem;
+    cursor: pointer;
+}
 
 
 
 @media screen and (max-width: 576px){
     .featured-courses.horizontal-column .course-thumbnail {
         width: 100%;
+    }
+    .feature-course-img-1
+    {
+        margin-left: 6rem;
+        margin-right: 6rem;
     }
 
     .featured-courses.horizontal-column .course-content-wrap {
