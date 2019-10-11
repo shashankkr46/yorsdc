@@ -568,7 +568,34 @@ a:hover, a:active {
 }
 
 .course-content-wrap {
-    padding: 26px 30px 20px;
+    padding: 16px 30px 37px;
+    border: 1px solid #ebebeb;
+    border-top: 0;
+    background: #fff;
+}
+.java-text
+{
+    padding-right: 3rem;
+    padding-left: 3rem;
+}
+.java-time
+{
+    padding-left: 5.3rem;
+    padding-right: 5.3rem;
+    color: grey;
+    font-weight: normal;   
+}
+.jav-btn
+{
+    margin-left: 1.6rem;
+    cursor: pointer;
+    padding-right: 3rem;
+    padding-left: 3rem;
+}
+
+
+.course-content-wrap-1 {
+    padding: 33px 30px 40px;
     border: 1px solid #ebebeb;
     border-top: 0;
     background: #fff;
@@ -656,8 +683,13 @@ a:hover, a:active {
 }
 .lan-image
 {
-    margin-left: 5rem;
-    margin-right: 5rem;
+    margin-left: 5.5rem;
+    margin-right: 5.5rem;
+}
+.lan-image-1
+{
+    margin-left: 5.8rem;
+    margin-right: 5.8rem;
 }
 
 .course-ratings {
