@@ -599,6 +599,10 @@ a:hover, a:active {
     padding-right: 3rem;
     padding-left: 3rem;
 }
+.crd-btn
+{
+    cursor: pointer;
+}
 
 
 .course-content-wrap-1 {
@@ -806,6 +810,11 @@ a.btn:hover {
     color: grey;
     font-weight: normal; 
 }
+.view-all-box
+{
+    display: flex;
+    flex-direction: row-reverse;
+}
 
 
 @media screen and (max-width: 576px){
@@ -816,6 +825,16 @@ a.btn:hover {
     {
         margin-left: 6rem;
         margin-right: 6rem;
+    }
+
+    .view-all-box
+    {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+
     }
 
     .featured-courses.horizontal-column .course-content-wrap {
@@ -831,8 +850,11 @@ a.btn:hover {
     }
     .design
     {
-        padding-right: 0.8rem;
-        padding-left: 0.8rem;
+      display: flex;
+      flex-direction: column;
+      justify-content:center;
+      align-items: center;
+      text-align: center;
     }
     
     .courses-wrap .heading .entry-title
@@ -2888,4 +2910,8 @@ p.footer-copyright {
 .foot-add
 {
     padding-top: 1rem;
+}
+.foot-logo-text
+{
+    line-height: 0px;
 }
