@@ -344,6 +344,7 @@ a:hover, a:active {
 .hero-content-wrap {
     height: 820px;
     padding-top: 130px;
+
 }
 
 .hero-content-wrap h4 {
@@ -817,6 +818,24 @@ a.btn:hover {
         border: 1px solid #ebebeb;
         border-top: 0;
     }
+    .courses-wrap .heading .courses-menu li
+    {
+        width: 100%;
+        text-align: center;
+    }
+    .design
+    {
+        padding-right: 0.8rem;
+        padding-left: 0.8rem;
+    }
+    
+    .courses-wrap .heading .entry-title
+    {
+        width: 100%;
+        text-align: center;
+    }
+
+
 }
 
 /*
@@ -2437,6 +2456,18 @@ ul.author-social-profile li:hover .fa {
     .author-details {
         width: 100%;
         margin-top: 32px;
+    }
+    .foot-logo
+    {
+        width: 100%;
+        text-align: center;
+    }
+    .foot-font-icon
+    {
+        width: 100%;
+        text-align: center;
+        padding-left: 7.2rem;
+        padding-right: 7.2rem;
     }
 }
 
