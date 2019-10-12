@@ -204,6 +204,7 @@ a:hover, a:active {
     /*.site-title {*/
         /*font-size: 112px;*/
     /*}*/
+    
 }
 
 /*
@@ -367,6 +368,11 @@ a:hover, a:active {
     .hero-content-wrap h1 {
         font-size: 32px;
         margin-left: 0.4rem;
+    }
+    .about-text
+    {
+        width: 100%;
+        text-align: center;
     }
 }
 
