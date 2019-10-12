@@ -368,11 +368,20 @@ a:hover, a:active {
     .hero-content-wrap h1 {
         font-size: 32px;
         margin-left: 0.4rem;
+        line-height: 1.5;
     }
     .about-text
     {
         width: 100%;
         text-align: center;
+    }
+    .hero-content-wrap h4
+    {
+        line-height: 2;
+    }
+    .icon-box-read-more-expert
+    {
+        padding-top: 6.3rem;
     }
 }
 
