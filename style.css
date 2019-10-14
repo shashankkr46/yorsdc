@@ -1691,6 +1691,18 @@ a.btn:hover {
 .course-info {
     margin-top: 40px;
 }
+.course-link-design a
+{
+    text-decoration: none;
+}
+.chev
+{
+    font-size: 0.5em;
+}
+.Course-heading-title
+{
+    font-size: 2em;
+}
 
 .course-info label {
     color: #c0c1cd;
