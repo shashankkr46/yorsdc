@@ -2789,7 +2789,7 @@ ul.author-social-profile li:hover .fa {
 }
 
 .contact-info li {
-    margin-top: 32px;
+    margin-top: 18px;
     font-size: 24px;
     color: #383749;
 }
@@ -2798,6 +2798,11 @@ ul.author-social-profile li:hover .fa {
     display: block;
     font-size: 18px;
     color: #c0c1cd;
+
+}
+.contact-info-last-li
+{
+    padding-top: 0.8rem;
 }
 
 .contact-info li a {
