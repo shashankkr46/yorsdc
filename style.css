@@ -428,6 +428,10 @@ a:hover, a:active {
 .icon-boxes {
     border-bottom: 1px solid #ebebeb;
 }
+.icon-box-bgcolor
+{
+    background-color: #F2F4F4;
+}
 
 .icon-box {
     width: 25%;
@@ -2098,6 +2102,10 @@ ul.black-doted {
 .about-page .page-header {
     background: url(images/courses-header.jpg) no-repeat center;
 }
+.landing-page
+{
+    padding-bottom: 5rem;
+}
 
 .about-heading,
 .team-heading {
@@ -2839,9 +2847,13 @@ ul.author-social-profile li:hover .fa {
     padding: 60px 0;
     color: #757686;
 }
+.footer-bg-col
+{
+    background-color: #F2F3F4;
+}
 
 .foot-about p {
-    margin-top: 40px;
+    margin-top: 26px;
     font-size: 16px;
     line-height: 1.6;
     color: #757686;
