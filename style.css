@@ -1834,7 +1834,7 @@ ul.black-doted {
 .single-course-accordion-cont .arrow-d,
 .single-course-accordion-cont .arrow-r {
     position: relative;
-    padding-right: 10px;
+    padding-right: 0px;
     color: #19c880;
 }
 
