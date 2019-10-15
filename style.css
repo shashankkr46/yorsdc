@@ -621,9 +621,11 @@ a:hover, a:active {
     padding-right: 3rem;
     padding-left: 3rem;
 }
-.crd-btn
+.icon-style
 {
-    cursor: pointer;
+    font-size: 1.5em;
+    font-style: arial;
+    color: black;
 }
 
 
@@ -2970,6 +2972,5 @@ p.footer-copyright {
 {
 color: #19c880;
 font-size: 2.5em;
-text-align: center;
 
 }
