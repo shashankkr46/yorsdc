@@ -728,7 +728,7 @@ a.btn:hover {
 
 .about-section .heading .entry-title {
     margin: 0px;
-    font-size: 2px;
+    font-size: 42px;
     font-weight: 400;
 }
 
@@ -1166,7 +1166,7 @@ a.btn:hover {
 
 .page-header-overlay {
     background: rgba(21,20,33,.5);
-    height: 500px;
+    height: 390px;
     padding-top: 236px;
 }
 
@@ -2753,4 +2753,8 @@ p.footer-copyright {
 {
     padding-bottom: 3rem;
     background-repeat: no-repeat;
+}
+.testi
+{
+    font-size: 2em;
 }
