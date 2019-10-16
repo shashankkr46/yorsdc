@@ -2758,3 +2758,11 @@ p.footer-copyright {
 {
     font-size: 2em;
 }
+.sub-heading
+{
+    font-size: 0.7em;
+    font-weight: normal;
+    border-style: solid;
+    border-color: grey;
+    border-width: 0px;
+}
