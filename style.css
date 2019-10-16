@@ -2824,7 +2824,7 @@ ul.author-social-profile li:hover .fa {
 }
 .contact-info-last-li
 {
-    padding-top: 0.8rem;
+    padding-top: 1rem;
 }
 
 .contact-info li a {
@@ -2978,4 +2978,8 @@ font-size: 2.5em;
 {
     margin-top: 2.6em;
 
+}
+.abt-div-size
+{
+    background-size: cover;
 }
