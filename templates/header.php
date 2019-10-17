@@ -41,7 +41,7 @@
                             <nav class="site-navigation flex justify-content-end align-items-center">
                                 <ul class="flex flex-column flex-lg-row justify-content-lg-end align-content-center">
                                     <li><a href="index.php" class="pl-5">Home</a></li>
-                                    <li class="current-menu-item"><a href="about.php">About</a></li>
+                                    <li><a href="about.php">About</a></li>
                                     <li><a href="courses.php">Courses</a></li>
                                     <li><a href="contact.php">Contact</a></li>
                                 </ul>

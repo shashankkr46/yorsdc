@@ -1,13 +1,11 @@
-<?php $page_title = "Contact"; ?>
-<?php include "templates/contact-css.php"; ?>
-
-<section class="featured-courses courses-wrap">
+<?php $page_title = "Contact Us"; ?>
+<?php include "templates/header-contact.php"; ?>
     <div class="container">
         <div class="row">
             <div class="col-12">
                 <div class="breadcrumbs">
                     <ul class="flex flex-wrap align-items-center p-0 m-0">
-                        <li><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
+                        <li><a href="#"><i class="fa fa-home"></i> Home</a></li>
                         <li>Contact</li>
                     </ul>
                 </div><!-- .breadcrumbs -->
@@ -52,6 +50,5 @@
             </div><!-- .col -->
         </div><!-- .row -->
     </div><!-- .container -->
-     
-    <?php ?>
+
 <?php include "templates/footer.php"; ?>

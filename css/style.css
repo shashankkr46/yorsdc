@@ -344,6 +344,8 @@ a:hover, a:active {
 --------------------------------------------------------------*/
 .hero-content {
     background: url("../images/hero-bg.jpg") no-repeat center;
+        background-size: cover;
+
 }
 
 .hero-content-overlay {
@@ -2991,4 +2993,12 @@ font-size: 2.5em;
 .abt-text
 {
     color: black;
+}
+.company-link
+{
+    color: black;
+}
+.comp-link
+{
+    padding-top: 0.9rem;
 }

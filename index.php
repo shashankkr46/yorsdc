@@ -53,7 +53,7 @@
                         <div class="col-3 col-lg-9 flex justify-content-end align-content-center">
                             <nav class="site-navigation flex justify-content-end align-items-center">
                                 <ul class="flex flex-column flex-lg-row justify-content-lg-end align-content-center">
-                                    <li class="current-menu-item"><a href="index.php" class="pl-5">Home</a></li>
+                                    <li><a href="index.php" class="pl-5">Home</a></li>
                                     <li><a href="about.php">About</a></li>
                                     <li><a href="courses.php">Courses</a></li>
                                     <li><a href="contact.php">Contact</a></li>
@@ -165,21 +165,24 @@
 <section class="about-section">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-lg-6">
-                    <header>
+                <div class="col-12 col-lg-6 text-dark">
+                    <header class="heading">
                         <h2 class="entry-title">About YOR</h2>
 
-                        <p class="abt-text">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p>
+                        <p class="text-dark">
+                            YOR, Born in 2018, with a mission to transform the learners <br/>from the unskilled talents into skilled Job-Ready Winners.
+                        </p>
+                        <p class="text-dark">
+                            At YOR, We offer learning and upskilling services with our outcome-based courses to master the cutting-edge technology and the most crucial business skills to students and professionals.
+                        </p>
+                        <p class="text-dark">
+                            YOR provides a comprehensive education environment to individuals and the institutions, offers training that is customized to the varied needs of audiences with diverse backgrounds.
+                        </p>
+                        
+
                     </header><!-- .heading -->
 
-                    <div class="entry-content ezuca-stats abt-text">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                    </div><!-- .ezuca-stats -->
+                    
                 </div><!-- .col -->
 
                 <div class="col-12 col-lg-6 pt-3">
@@ -188,6 +191,7 @@
             </div><!-- .row -->
         </div><!-- .container -->
     </section><!-- .about-section -->
+
 
    
 <!----------------------------------------------------------------------------------------------------------->
@@ -282,6 +286,8 @@
                             <a class="img-fluid" href="#"><img src="images/logo-new.png" alt="" width="130"></a>
 
                             <p class="foot-logo-text">A Canum Allentech Initiative. </p>
+                              <p>We at Canum AllenTech provide end-to-end strategic solutions to organizations as well as individuals. </p>
+                            <p class="comp-link"><a href="https://www.allentech.in" target="_blank">Cannum Allentech</a></p>
 
                             
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
@@ -293,12 +299,13 @@
                             <h2>Contact Us</h2>
 
                             <ul>
-                                <li>Email: info@yorsdc.com</li>
-                                <li>Phone: +91 96321 08701</li>
-                                <li>Address: #1705, 4th Floor,<br />
+                                 <li>Address: #1705, 4th Floor,<br />
                                     19th main, Near 25th Cross,<br />
                                     2nd Sector, HSR Layout,<br />
                                     Bengaluru - 560102, India</li>
+                                <li>Email: info@yorsdc.com</li>
+                                <li>Phone: +91 96321 08701</li>
+                               
                             </ul>
                             </div><!-- .foot-contact -->
                     </div><!-- .col -->
@@ -313,13 +320,13 @@
                                     <li><a href="courses.php">Courses</a></li>
                                     <li><a href="contact.php">Contact</a></li>
                             </ul>
-
                             <ul class="w-50">
                                 <li><a href="basic-python.php">Basic Python</a></li>
                                 <li><a href="devops.php">DevOps</a></li>
-                                <li><a href="big-data.php">Big Data and Hadoop</a></li>
+                                <li><a href="big-data.php">Big Data</a></li>
                                 <li><a href="advance-python.php">Advanced Python</a></li>
-                                <li><a href="aws-course.php">Amazon Web Services</a></li>
+                                <li><a href="aws-course.php">AWS</a></li>
+                                <li><a href="aws-course.php">Python</a></li>
 
                                 
                             </ul>
@@ -333,8 +340,8 @@
                             <ul class="follow-us flex flex-wrap align-items-center foot-font-icon">
                                 <li><a href="https://www.facebook.com/YORSDC1/"  target="_blank"><i class="fa fa-facebook"></i></a></li>
                                 
-                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                              <!--   <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li> -->
                             </ul>
                         </div>
                         </div><!-- .quick-links -->

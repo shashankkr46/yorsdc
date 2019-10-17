@@ -1,4 +1,3 @@
-
 <hr class="mt-5">
 
   <footer class="site-footer bg-white">
@@ -7,12 +6,13 @@
                 <div class="row">
                     <div class="col-12 col-md-6 col-lg-3 foot-logo">
                         <div class="foot-about">
-                            <a class="img-fluid" href="#"><img src="images/logo-new.png" alt="" width="130"></a>
+                            <a class="img-fluid" href="."><img src="images/logo-new.png" alt="" width="130"></a>
 
                             <p class="foot-logo-text">A Canum Allentech Initiative. </p>
 
-                            
+                            <p>We at Canum AllenTech provide end-to-end strategic solutions to organizations as well as individuals. </p>
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                            <p class="comp-link"><a href="https://www.allentech.in" target="_blank">Cannum Allentech</a></p>
                         </div><!-- .foot-about -->
                     </div><!-- .col -->
 
@@ -21,12 +21,13 @@
                             <h2>Contact Us</h2>
 
                             <ul>
-                                <li>Email: info@yorsdc.com</li>
-                                <li>Phone: +91 96321 08701</li>
-                                <li>Address: #1705, 4th Floor,<br />
+                                  <li>Address: #1705, 4th Floor,<br />
                                     19th main, Near 25th Cross,<br />
                                     2nd Sector, HSR Layout,<br />
                                     Bengaluru - 560102, India</li>
+                                <li>Email: info@yorsdc.com</li>
+                                <li>Phone: +91 96321 08701</li>
+                              
                             </ul>
                             </div><!-- .foot-contact -->
                     </div><!-- .col -->
@@ -49,6 +50,7 @@
                                 <li><a href="big-data.php">Big Data</a></li>
                                 <li><a href="advance-python.php">Advanced Python</a></li>
                                 <li><a href="aws-course.php">AWS</a></li>
+                                <li><a href="aws-course.php">Python</a></li>
 
                                 
                             </ul>
@@ -61,8 +63,8 @@
                         <div class="foot-font-icon">
                             <ul class="follow-us flex flex-wrap align-items-center foot-font-icon">
                                 <li><a href="https://www.facebook.com/YORSDC1/"  target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <!-- <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li> -->
                             </ul>
                         </div>
                         </div><!-- .quick-links -->

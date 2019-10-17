@@ -1,5 +1,5 @@
 <?php $page_title = "About Us"; ?>
-<?php include "templates/about-css.php"; ?>
+<?php include "templates/header-about.php"; ?>
 
     <div class="container">
         <div class="row">
@@ -27,17 +27,20 @@
                     <header class="heading">
                         <h2 class="entry-title">About YOR</h2>
 
-                        <p class="text-dark">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p>
+                        <p class="text-dark">
+                            YOR, Born in 2018, with a mission to transform the learners <br/>from the unskilled talents into skilled Job-Ready Winners.
+                        </p>
+                        <p class="text-dark">
+                            At YOR, We offer learning and upskilling services with our outcome-based courses to master the cutting-edge technology and the most crucial business skills to students and professionals.
+                        </p>
+                        <p class="text-dark">
+                            YOR provides a comprehensive education environment to individuals and the institutions, offers training that is customized to the varied needs of audiences with diverse backgrounds.
+                        </p>
+                        
+
                     </header><!-- .heading -->
 
-                    <div class="entry-content ezuca-stats">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                    </div><!-- .ezuca-stats -->
+                    
                 </div><!-- .col -->
 
                 <div class="col-12 col-lg-6 pt-3">
@@ -280,4 +283,3 @@
 </section>
 <?php ?>
 <?php include "templates/footer.php"; ?>
-
