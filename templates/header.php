@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Hello World</title>
+    <title><?php echo $page_title; ?></title>
 
     <!-- Required meta tags -->
     <meta charset="utf-8">
