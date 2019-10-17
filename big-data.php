@@ -1,81 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Hello World</title>
+<?php $page_title = "Big data and Hadoop"; ?>
+<?php include "templates/header.php"; ?>
 
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-
-    <!-- FontAwesome CSS -->
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-
-    <!-- ElegantFonts CSS -->
-    <link rel="stylesheet" href="css/elegant-fonts.css">
-
-    <!-- themify-icons CSS -->
-    <link rel="stylesheet" href="css/themify-icons.css">
-
-    <!-- Swiper CSS -->
-    <link rel="stylesheet" href="css/swiper.min.css">
-
-    <!-- Styles -->
-    <link rel="stylesheet" href="style.css">
-</head>
-<body class="single-courses-page">
-    <div class="page-header">
-        <header class="site-header">
-              <div class="nav-bar">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-9 col-lg-3">
-                            <div class="site-branding">
-                                <h1 class="site-title"><a href="index.html#" rel="home"><img src="images/logo-new.png" width="130"></a></h1>
-                            </div><!-- .site-branding -->
-                        </div><!-- .col -->
-
-                        <div class="col-3 col-lg-9 flex justify-content-end align-content-center">
-                            <nav class="site-navigation flex justify-content-end align-items-center">
-                                 <ul class="flex flex-column flex-lg-row justify-content-lg-end align-content-center">
-                                    <li><a href="index.html" class="pl-5">Home</a></li>
-                                    <li><a href="about.html">About</a></li>
-                                    <li class="current-menu-item"><a href="courses.html">Courses</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
-                                </ul>
-
-
-                                <div class="hamburger-menu d-lg-none">
-                                    <span></span>
-                                    <span></span>
-                                    <span></span>
-                                    <span></span>
-                                </div><!-- .hamburger-menu -->
-                                <div class="header-bar-cart">
-                                   <a href="#" class="flex justify-content-center align-items-center"><span aria-hidden="true"></span></a>
-                                </div><!-- .header-bar-search -->
-                                
-                            </nav><!-- .site-navigation -->
-                        </div><!-- .col -->
-                    </div><!-- .row -->
-                </div><!-- .container -->
-            </div><!-- .nav-bar -->
-        </header><!-- .site-header -->
-
-        <div class="page-header-overlay">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <header class="entry-header">
-                            <h1 class="entry-title">Big Data and Hadoop</h1>
-                        </header><!-- .entry-header -->
-                    </div><!-- .col -->
-                </div><!-- .row -->
-            </div><!-- .container -->
-        </div><!-- .page-header-overlay -->
-    </div><!-- .page-header -->
+<section class="featured-courses courses-wrap">
 
     <div class="container">
         <div class="row">
@@ -393,7 +319,7 @@
                         <header class="entry-heading flex flex-wrap justify-content-between align-items-center">
                             <h2 class="entry-title">Related Courses</h2>
 
-                            <a href="courses.html">View all</a>
+                            <a href="courses.php">View all</a>
                         </header><!-- .entry-heading -->
 
                         <div class="row mx-m-25">
@@ -405,7 +331,7 @@
 
                                     <div class="course-content-wrap">
                                         <header class="entry-header">
-                                <h2 class="entry-title"><a href="basic-python.html">Basic Python</a></h2>
+                                <h2 class="entry-title"><a href="basic-python.php">Basic Python</a></h2>
                             </header><!-- .entry-header -->
 
                              <footer class="entry-footer flex justify-content-between align-items-center">
@@ -415,7 +341,7 @@
                                    </p></span>
                                 </div><!-- .course-cost -->
                             </footer><!-- .entry-footer -->
-                            <div class="course-link-design "><a href="basic-python.html"><small class="d-flex flex-row-reverse text-success">View More </small></a></div>
+                            <div class="course-link-design "><a href="basic-python.php"><small class="d-flex flex-row-reverse text-success">View More </small></a></div>
                         </div><!-- .course-content-wrap -->
                     </div><!-- .course-content -->
                 </div><!-- .col -->
@@ -428,7 +354,7 @@
 
                                     <div class="course-content-wrap">
                                         <header class="entry-header">
-                                <h2 class="entry-title"><a href="aws-course.html">Amazon Web Services </a></h2>
+                                <h2 class="entry-title"><a href="aws-course.php">Amazon Web Services </a></h2>
                             </header><!-- .entry-header -->
 
                              <footer class="entry-footer flex justify-content-between align-items-center">
@@ -438,7 +364,7 @@
                                    </p></span>
                                 </div><!-- .course-cost -->
                             </footer><!-- .entry-footer -->
-                            <div class="course-link-design "><a href="aws-course.html"><small class="d-flex flex-row-reverse text-success">View More </small></a></div>
+                            <div class="course-link-design "><a href="aws-course.php"><small class="d-flex flex-row-reverse text-success">View More </small></a></div>
                         </div><!-- .course-content-wrap -->
                     </div><!-- .course-content -->
                 </div><!-- .col -->
@@ -453,12 +379,12 @@
                         <h2>Featured Courses</h2>
 
                         <ul class= "p-0 m-0">
-                            <li><a href="aws-course.html">Amazon Web Services</a></li>
-                            <li><a href="python-cont.html">Python</a></li>
-                            <li><a href="devops.html">DevOps</a></li>
-                            <li><a href="big-data.html">Big data and Hadoop</a></li>
-                            <li><a href="basic-python.html">Basic Python</a></li>
-                            <li><a href="advance-python.html">Advance Python</a></li>
+                            <li><a href="aws-course.php">Amazon Web Services</a></li>
+                            <li><a href="python-cont.php">Python</a></li>
+                            <li><a href="devops.php">DevOps</a></li>
+                            <li><a href="big-data.php">Big data and Hadoop</a></li>
+                            <li><a href="basic-python.php">Basic Python</a></li>
+                            <li><a href="advance-python.php">Advanced Python</a></li>
                         </ul>
                     </div><!-- .cat-links -->
 
@@ -471,103 +397,8 @@
             </div><!-- .col -->
         </div><!-- .row -->
     </div><!-- .container -->
-<hr class="mt-5">
 
    
 
-  <footer class="site-footer bg-white">
-        <div class="footer-widgets">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 col-md-6 col-lg-3 foot-logo">
-                        <div class="foot-about">
-                            <a class="img-fluid" href="#"><img src="images/logo-new.png" alt="" width="130"></a>
-
-                            <p class="foot-logo-text">A Canum Allentech Initiative. </p>
-
-                            
-                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-                        </div><!-- .foot-about -->
-                    </div><!-- .col -->
-
-                    <div class="col-12 col-md-6 col-lg-3 mt-5 mt-md-0 foot-logo">
-                        <div class="foot-contact foot-add">
-                            <h2>Contact Us</h2>
-
-                            <ul>
-                                <li>Email: info@yorsdc.com</li>
-                                <li>Phone: +91 96321 08701</li>
-                                <li>Address: #1705, 4th Floor,<br />
-                                    19th main, near 25th Cross,<br />
-                                    2nd Sector, HSR Layout,<br />
-                                    Bengaluru - 560102, India</li>
-                            </ul>
-                            </div><!-- .foot-contact -->
-                    </div><!-- .col -->
-
-                    <div class="col-12 col-md-6 col-lg-3 mt-5 mt-lg-0 ">
-                        <div class="quick-links flex flex-wrap foot-add foot-logo design">
-                            <h2 class="w-100">Quick Links</h2>
-
-                            <ul class="w-50">
-                                <li><a href="index.html">Home</a></li>
-                                    <li><a href="about.html">About</a></li>
-                                    <li><a href="courses.html">Courses</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
-                            </ul>
-
-                            <ul class="w-50">
-                                <li><a href="basic-python.html">Basic Python</a></li>
-                                <li><a href="devops.html">DevOps</a></li>
-                                <li><a href="big-data.html">Big Data</a></li>
-                                <li><a href="advance-python.html">Advance Python</a></li>
-                                
-                            </ul>
-                        </div><!-- .quick-links -->
-                    </div><!-- .col -->
-
-                    <div class="col-12 col-md-6 col-lg-3 mt-5 mt-lg-0">
-                        <div class="follow-us foot-add">
-                            <h2 class="foot-logo pt-0">Follow Us</h2>
-                        <div class="foot-font-icon">
-                            <ul class="follow-us flex flex-wrap align-items-center foot-font-icon">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            </ul>
-                        </div>
-                        </div><!-- .quick-links -->
-                    </div><!-- .col -->
-                </div><!-- .row -->
-            </div><!-- .container -->
-        </div><!-- .footer-widgets -->
-
-        <div class="footer-bar">
-            <div class="container">
-                <div class="row flex-wrap justify-content-center justify-content-lg-between align-items-center">
-                    <!--<div class="col-12 col-lg-6 foot-logo">
-                        <div class="download-apps flex flex-wrap justify-content-center justify-content-lg-start align-items-center">
-                            <a href="#"><img src="images/app-store.png" alt=""></a>
-                            <a href="#"><img src="images/play-store.png" alt=""></a>
-                        </div>
-
-                    </div>-->
-
-                    <div class="col-12 col-lg-12 mt-4 mt-lg-0 foot-logo">
-                        <div class="footer-bar-nav d-flex flex-row-reverse">
-                           Copyright &copy; 2019 All rights reserved 
-                        </div><!-- .footer-bar-nav -->
-                    </div><!-- .col-12 -->
-                </div><!-- .row -->
-            </div><!-- .container -->
-        </div><!-- .footer-bar -->
-    </footer><!-- .site-footer -->
-
-<script type='text/javascript' src='js/jquery.js'></script>
-<script type='text/javascript' src='js/swiper.min.js'></script>
-<script type='text/javascript' src='js/masonry.pkgd.min.js'></script>
-<script type='text/javascript' src='js/jquery.collapsible.min.js'></script>
-<script type='text/javascript' src='js/custom.js'></script>
-</body>
-</html>
+  <?php ?>
+<?php include "templates/footer.php"; ?>

@@ -23,7 +23,6 @@
     <link rel="stylesheet" href="css/swiper.min.css">
 
     <!-- Styles -->
-    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
 <!-- jQuery library -->
@@ -34,6 +33,8 @@
 
 <!-- Latest compiled JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+
 </head>
 <body>
     <div class="hero-content">
@@ -45,17 +46,17 @@
                     <div class="row">
                         <div class="col-9 col-lg-3">
                             <div class="site-branding">
-                                <h1 class="site-title"><a href="index.html" rel="home"><img src="images/logo-new.png" width="130"></a></h1>
+                                <h1 class="site-title"><a href="index.php" rel="home"><img src="images/logo-new.png" width="130"></a></h1>
                             </div><!-- .site-branding -->
                         </div><!-- .col -->
 
                         <div class="col-3 col-lg-9 flex justify-content-end align-content-center">
                             <nav class="site-navigation flex justify-content-end align-items-center">
                                 <ul class="flex flex-column flex-lg-row justify-content-lg-end align-content-center">
-                                    <li class="current-menu-item"><a href="index.html" class="pl-5">Home</a></li>
-                                    <li><a href="about.html">About</a></li>
-                                    <li><a href="courses.html">Courses</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li class="current-menu-item"><a href="index.php" class="pl-5">Home</a></li>
+                                    <li><a href="about.php">About</a></li>
+                                    <li><a href="courses.php">Courses</a></li>
+                                    <li><a href="contact.php">Contact</a></li>
                                 </ul>
 
                                 <div class="hamburger-menu d-lg-none">
@@ -65,7 +66,7 @@
                                     <span></span>
                                 </div><!-- .hamburger-menu -->
                                 <div class="header-bar-cart">
-                                   <a href="courses.html" class="flex justify-content-center align-items-center"><span aria-hidden="true"></span></a>
+                                   <a href="courses.php" class="flex justify-content-center align-items-center"><span aria-hidden="true"></span></a>
                                 </div><!-- .header-bar-search -->
                                 
                             </nav><!-- .site-navigation -->
@@ -91,7 +92,7 @@
                             </div><!-- .entry-content -->
 
                             <footer class="entry-footer read-more">
-                                <a href="courses.html">read more</a>
+                                <a href="courses.php">read more</a>
                             </footer><!-- .entry-footer -->
                         </div><!-- .hero-content-wrap -->
                     </div><!-- .col -->
@@ -198,7 +199,7 @@
                     <header class="heading flex justify-content-between align-items-center">
                         <h2 class="entry-title">Featured Courses</h2>
 
-                        <a class="btn mt-4 mt-sm-0" href="courses.html">view all</a>
+                        <a class="btn mt-4 mt-sm-0" href="courses.php">view all</a>
                     </header><!-- .heading -->
                 </div><!-- .col -->
 
@@ -210,7 +211,7 @@
 
                         <div class="course-content-wrap">
                             <header class="entry-header">
-                            <h2 class="entry-title"><a href="aws-course.html">Amazon Web Services</a></h2>
+                            <h2 class="entry-title"><a href="aws-course.php">Amazon Web Services</a></h2>
 
                                
                             </header><!-- .entry-header -->
@@ -222,7 +223,7 @@
                                    </p></span>
                                 </div><!-- .course-cost -->
                             </footer><!-- .entry-footer -->
-                            <div class="course-link-design "><a href="aws-course.html"><small class="d-flex flex-row-reverse text-success">View More </small></a></div>
+                            <div class="course-link-design "><a href="aws-course.php"><small class="d-flex flex-row-reverse text-success">View More </small></a></div>
 
                         </div><!-- .course-content-wrap -->
                     </div><!-- .course-content -->
@@ -236,7 +237,7 @@
 
                        <div class="course-content-wrap">
                             <header class="entry-header">
-                            <h2 class="entry-title"><a href="basic-python.html">Basic Python</a></h2>
+                            <h2 class="entry-title"><a href="basic-python.php">Basic Python</a></h2>
 
                                
                             </header><!-- .entry-header -->
@@ -248,7 +249,7 @@
                                    </p></span>
                                 </div><!-- .course-cost -->
                             </footer><!-- .entry-footer -->
-                            <div class="course-link-design "><a href="basic-python.html"><small class="d-flex flex-row-reverse text-success">View More </small></a></div>
+                            <div class="course-link-design "><a href="basic-python.php"><small class="d-flex flex-row-reverse text-success">View More </small></a></div>
 
                         </div><!-- .course-content-wrap -->
                     </div><!-- .course-content -->
@@ -307,17 +308,19 @@
                             <h2 class="w-100">Quick Links</h2>
 
                             <ul class="w-50">
-                                <li><a href="index.html">Home</a></li>
-                                    <li><a href="about.html">About</a></li>
-                                    <li><a href="courses.html">Courses</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                <li><a href="index.php">Home</a></li>
+                                    <li><a href="about.php">About</a></li>
+                                    <li><a href="courses.php">Courses</a></li>
+                                    <li><a href="contact.php">Contact</a></li>
                             </ul>
 
                             <ul class="w-50">
-                                <li><a href="basic-python.html">Basic Python</a></li>
-                                <li><a href="devops.html">DevOps</a></li>
-                                <li><a href="big-data.html">Big Data</a></li>
-                                <li><a href="advance-python.html">Advance Python</a></li>
+                                <li><a href="basic-python.php">Basic Python</a></li>
+                                <li><a href="devops.php">DevOps</a></li>
+                                <li><a href="big-data.php">Big Data and Hadoop</a></li>
+                                <li><a href="advance-python.php">Advanced Python</a></li>
+                                <li><a href="aws-course.php">Amazon Web Services</a></li>
+
                                 
                             </ul>
                         </div><!-- .quick-links -->
@@ -329,7 +332,7 @@
                         <div class="foot-font-icon">
                             <ul class="follow-us flex flex-wrap align-items-center foot-font-icon">
                                 <li><a href="https://www.facebook.com/YORSDC1/"  target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="https://accounts.google.com/AccountChooser/signinchooser?service=lbc&continue=https%3A%2F%2Fbusiness.google.com%2Fdashboard%2Fl%2F05591234089976492279%3Fhl%3Den%26ppsrc%3DGPDA2%26gmbsrc%3Din-ww-z-z-z-gmb-l-z-l~mhp-rds_bot-u%26acct_rdr%3D1&hl=en&flowName=GlifWebSignIn&flowEntry=AccountChooser" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                                
                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                             </ul>

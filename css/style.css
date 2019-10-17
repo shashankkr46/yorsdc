@@ -343,8 +343,7 @@ a:hover, a:active {
 # Hero Section
 --------------------------------------------------------------*/
 .hero-content {
-    background: url("images/hero-bg.jpg") no-repeat center;
-    background-size: cover;
+    background: url("../images/hero-bg.jpg") no-repeat center;
 }
 
 .hero-content-overlay {
@@ -621,9 +620,11 @@ a:hover, a:active {
     padding-right: 3rem;
     padding-left: 3rem;
 }
-.crd-btn
+.icon-style
 {
-    cursor: pointer;
+    font-size: 1.5em;
+    font-style: arial;
+    color: black;
 }
 
 
@@ -921,7 +922,6 @@ a.btn:hover {
     margin-top: 15px;
     font-size: 16px;
     line-height: 1.8;
-    color: #757686;
 }
 
 .ezuca-stats {
@@ -1359,7 +1359,7 @@ a.btn:hover {
 }
 
 .courses-page .page-header {
-    background: url("images/courses-header.jpg") no-repeat center;
+    background-image: url("../images/courses-header.jpg") no-repeat center;
 }
 
 .page-header-overlay {
@@ -1650,11 +1650,10 @@ a.btn:hover {
 }
 
 .single-courses-page .page-header-overlay {
-    height: 530px;
+    height: 390px;
 }
 
 .single-courses-page .page-header-overlay h1 {
-    text-transform: uppercase;
 }
 
 .single-courses-page .featured-image {
@@ -2100,7 +2099,7 @@ ul.black-doted {
 # About Page
 --------------------------------------------------------------*/
 .about-page .page-header {
-    background: url(images/courses-header.jpg) no-repeat center;
+    background: url(../images/courses-header.jpg) no-repeat center;
 }
 .landing-page
 {
@@ -2809,8 +2808,8 @@ ul.author-social-profile li:hover .fa {
 }
 
 .contact-info li {
-    margin-top: 35px;
-    font-size: 20px;
+    margin-top: 18px;
+    font-size: 24px;
     color: #383749;
 }
 
@@ -2822,7 +2821,7 @@ ul.author-social-profile li:hover .fa {
 }
 .contact-info-last-li
 {
-    padding-top: 0.8rem;
+    padding-top: 1rem;
 }
 
 .contact-info li a {
@@ -2970,6 +2969,26 @@ p.footer-copyright {
 {
 color: #19c880;
 font-size: 2.5em;
-text-align: center;
 
+}
+.courses-right-categories
+{
+    margin-top: 2.6em;
+
+}
+.abt-div-size
+{
+    background-size: cover;
+}
+.advance
+{
+    margin-top:3.8rem;
+}
+.advance-feature
+{
+    margin-top: 5.5rem;
+}
+.abt-text
+{
+    color: black;
 }
