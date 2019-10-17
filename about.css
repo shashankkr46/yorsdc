@@ -2760,7 +2760,7 @@ p.footer-copyright {
 }
 .sub-heading
 {
-    font-size: 0.9em;
+    font-size: 0.8em;
     font-weight: normal;
     border-style: solid;
     border-color: grey;
@@ -2778,8 +2778,4 @@ p.footer-copyright {
 {
     padding-left: 0rem;
     margin-left: 0rem;
-}
-.abt-text
-{
-    color: black;
 }
