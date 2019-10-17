@@ -46,9 +46,9 @@
                             <ul class="w-50">
                                 <li><a href="basic-python.php">Basic Python</a></li>
                                 <li><a href="devops.php">DevOps</a></li>
-                                <li><a href="big-data.php">Big Data and Hadoop</a></li>
+                                <li><a href="big-data.php">Big Data</a></li>
                                 <li><a href="advance-python.php">Advanced Python</a></li>
-                                <li><a href="aws-course.php">Amazon Web Services</a></li>
+                                <li><a href="aws-course.php">AWS</a></li>
 
                                 
                             </ul>

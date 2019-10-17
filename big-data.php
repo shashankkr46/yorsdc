@@ -69,7 +69,7 @@
 
                                 <h3 class="entry-title flex flex-wrap justify-content-between align-items-lg-center">
                                     <span class="arrow-r"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span>
-                                    <span class="lecture-group-title">Need for spark </span>
+                                    <span class="lecture-group-title">Need for Spark </span>
                                     <span class="number-of-lectures"></span>
                                 <span class="total-lectures-time"></span>
                                 </h3>
@@ -84,21 +84,21 @@
 
                                 <h3 class="entry-title flex flex-wrap justify-content-between align-items-lg-center">
                                     <span class="arrow-r"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span>
-                                    <span class="lecture-group-title">Introduction to  spark</span>
+                                    <span class="lecture-group-title">Introduction to  Spark</span>
                                     <span class="number-of-lectures"></span>
                                     <span class="total-lectures-time"></span>
                                 </h3>
 
                                 <div class="entry-content pl-5">
                                     <ul class="p-0 m-0">
-                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">What is spark?</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
+                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">What is Spark?</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                         
                                     </ul>
                                 </div>
 
                                 <h3 class="entry-title flex flex-wrap justify-content-between align-items-lg-center">
                                     <span class="arrow-r"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span>
-                                    <span class="lecture-group-title">Apache spark basics</span>
+                                    <span class="lecture-group-title">Apache Spark basics</span>
                                     <span class="number-of-lectures"></span>
                                     <span class="total-lectures-time"></span>
                                 </h3>
@@ -108,7 +108,7 @@
 
                              <ul class="p-0 m-0">
                               <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">    Distributed framework</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
-                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">   Spark v/s hadoop</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
+                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">   Spark v/s Hadoop</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                         
                                     </ul>
                                 </div>
@@ -134,7 +134,7 @@
 
                                 <h3 class="entry-title flex flex-wrap justify-content-between align-items-lg-center">
                                     <span class="arrow-r"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span>
-                                    <span class="lecture-group-title">Delving deeper into the spark</span>
+                                    <span class="lecture-group-title">Delving deeper into the Spark</span>
                                     <span class="number-of-lectures"></span>
                                     <span class="total-lectures-time"></span>
                                 </h3>
@@ -143,12 +143,12 @@
        
 
                              <ul class="p-0 m-0">
-                              <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">   Architecture of spark</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
+                              <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">   Architecture of Spark</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                    <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">  Introduction to RDD</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                  <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title"> Uses of RDD</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title"> What is RDD partition</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Spark action and transformation functions</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
-                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Lazy nature of spark</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
+                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Lazy nature of Spark</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                 </ul>
                                 </div>
                                 <h3 class="entry-title flex flex-wrap justify-content-between align-items-lg-center">
@@ -167,7 +167,7 @@
                                 </div>
                                 <h3 class="entry-title flex flex-wrap justify-content-between align-items-lg-center">
                                     <span class="arrow-r"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span>
-                                    <span class="lecture-group-title">     Fault tolerance in spark</span>
+                                    <span class="lecture-group-title">     Fault tolerance in Spark</span>
                                     <span class="number-of-lectures"></span>
                                     <span class="total-lectures-time"></span>
                                 </h3>
@@ -175,12 +175,12 @@
                                 <div class="entry-content pl-5">
                                   <ul class="p-0 m-0">
                                     <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">How to protect the system against system failure</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li> 
-                                    <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Concept of linage in spark</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
+                                    <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Concept of linage in Spark</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                   </ul>
                                 </div>
                                 <h3 class="entry-title flex flex-wrap justify-content-between align-items-lg-center">
                                     <span class="arrow-r"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span>
-                                    <span class="lecture-group-title">Memory management in spark</span>
+                                    <span class="lecture-group-title">Memory management in Spark</span>
                                     <span class="number-of-lectures"></span>
                                     <span class="total-lectures-time"></span>
                                 </h3>
@@ -200,12 +200,12 @@
                                 <div class="entry-content pl-5">
                                   <ul class="p-0 m-0">
                                     <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">   Uses of intermediate data</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
-                                    <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Saving the intermediate data in spark</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li> 
+                                    <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Saving the intermediate data in Spark</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li> 
                                   </ul>
                                 </div>
                                 <h3 class="entry-title flex flex-wrap justify-content-between align-items-lg-center">
                                     <span class="arrow-r"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span>
-                                    <span class="lecture-group-title">Shared variables in spark and its uses</span>
+                                    <span class="lecture-group-title">Shared variables in Spark and its uses</span>
                                     <span class="number-of-lectures"></span>
                                     <span class="total-lectures-time"></span>
                                 </h3>
@@ -231,7 +231,7 @@
                                 </div>
                                 <h3 class="entry-title flex flex-wrap justify-content-between align-items-lg-center">
                                     <span class="arrow-r"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span>
-                                    <span class="lecture-group-title">Debugging and tuning of spark</span>
+                                    <span class="lecture-group-title">Debugging and tuning of Spark</span>
                                     <span class="number-of-lectures"></span>
                                     <span class="total-lectures-time"></span>
                                 </h3>
@@ -239,13 +239,13 @@
                                 <div class="entry-content pl-5">
                                   <ul class="p-0 m-0">
                                     <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Introduction to DAG, ctalyst optimizer</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
-                                    <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Introduction to sparkconf and sparkSubmit</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
+                                    <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Introduction to Sparkconf and SparkSubmit</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                     <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Component of execution:- jobs, tasks and stages</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li> 
                                   </ul>
                                 </div>
                                  <h3 class="entry-title flex flex-wrap justify-content-between align-items-lg-center">
                                     <span class="arrow-r"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span>
-                                    <span class="lecture-group-title">real time data</span>
+                                    <span class="lecture-group-title">Real time data</span>
                                     <span class="number-of-lectures"></span>
                                     <span class="total-lectures-time"></span>
                                 </h3>
@@ -260,34 +260,34 @@
 
                                 <h3 class="entry-title flex flex-wrap justify-content-between align-items-lg-center">
                                     <span class="arrow-r"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span>
-                                    <span class="lecture-group-title">Introduction to spark-streaming</span>
+                                    <span class="lecture-group-title">Introduction to Spark-streaming</span>
                                     <span class="number-of-lectures"></span>
                                     <span class="total-lectures-time"></span>
                                 </h3>
 
                                 <div class="entry-content pl-5">
                                   <ul class="p-0 m-0">
-                                    <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Need of spark-streaming</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
-                                    <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Architecture of spark-streaming</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
+                                    <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Need of Spark-streaming</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
+                                    <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Architecture of Spark-streaming</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                     <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Concept of dstream</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                     <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">   Replication of data</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li> 
                                     <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Introduction of checkpoint</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>  
                                     <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">  Difference between checkpointing and persist</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li> 
-                                    <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title" style="line-height: 2.4">Loading of data into spark-streaming through kafka massaging system and saving to database</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>    
+                                    <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title" style="line-height: 2.4">Loading of data into Spark-streaming through kafka massaging system and saving to database</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>    
                                   </ul>
                                 </div>
 
                                  <h3 class="entry-title flex flex-wrap justify-content-between align-items-lg-center">
                                     <span class="arrow-r"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span>
-                                    <span class="lecture-group-title">Spark-SQL:- How to write Sql queries with spark</span>
+                                    <span class="lecture-group-title">Spark-SQL How to write SQL queries with spark</span>
                                     <span class="number-of-lectures"></span>
                                     <span class="total-lectures-time"></span>
                                 </h3>
 
                                 <div class="entry-content pl-5">
                                   <ul class="p-0 m-0">
-                                    <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">  Introduction to spark-Sql</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
-                                    <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">  Uses of spark-Sql</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
+                                    <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">  Introduction to spark-SQL</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
+                                    <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">  Uses of spark-SQL</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                     <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">  Introduction of dataframe and dataset</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                     <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">  Loading and saving data</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li> 
                                     <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Caching and persist in spark-SQL</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>  

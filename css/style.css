@@ -1869,7 +1869,7 @@ ul.black-doted {
 }
 
 .single-course-accordion-cont .lecture-title {
-    width: calc(100% - 280px);
+    width: calc(100%);
     color: #757686;
 }
 

@@ -53,7 +53,7 @@
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Assignment operators</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title"> Comparison operators</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Logical operators</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
-                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Conditional/ ternary operators</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
+                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Conditional / ternary operators</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                         
                                     </ul>
                                 </div>
@@ -142,10 +142,10 @@
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Python file & directory functions</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Introduction to subprocess module</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                       <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Handling exceptions</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
-                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Raising Exceptions</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
+                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Raising exceptions</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Userdefined exceptions</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Cleanup actions</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
-                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Try/finally clauses</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
+                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Try / finally clauses</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                         
                                     </ul>
                                 </div>
@@ -183,7 +183,7 @@
           
                                 <ul class="p-0 m-0">
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Class definition syntax</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
-                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Class objects, instance objects, method objects; instantiation inheritance</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
+                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Class objects, instance objects, method objects; instantiation inheritance</span></li>
          
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Data member class variable/instance</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Function overloading</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
@@ -205,7 +205,7 @@
                                 <div class="entry-content pl-5">
           
                                     <ul class="p-0 m-0">
-                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Os</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
+                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">OS</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                     </ul>
                                 </div>
 

@@ -51,18 +51,18 @@
     <div class="container mt-4">
         <div class="row">
 
-            <div class="col-12 col-lg-12 border pl-5 pb-5">
+            <div class="col-12 col-lg-12  pl-2 pb-5">
 
                     <div class=" mt-4">
                         <header class="entry-header flex flex-wrap justify-content-between align-items-center">
-                            <h2 class="pt-3">Why to choose us</h2>
+                            <h2 class="pt-3 font-weight-normal choose-text">Why to choose us</h2>
 
                         </header><!-- .entry-header -->
                         <div class="entry-contents mt-5">
                             <div>
                                 <h3 class="entry-title flex flex-wrap justify-content-lg-start align-items-lg-center ">
                                    
-                                    <span class="lecture-group-title sub-heading ">HANDS-ON APPROACH</span>
+                                    <span class="lecture-group-title sub-heading ">Hands-on approach</span>
                                 </h3>
 
                                 <div class="entry-content">
@@ -73,7 +73,7 @@
 
                                 <h3 class="entry-title flex flex-wrap justify-content-lg-start align-items-lg-center pt-4">
                                     
-                                    <span class="lecture-group-title sub-heading">PRACTICAL APPLICATION</span>
+                                    <span class="lecture-group-title sub-heading">Practical application</span>
                                 </h3>
 
                                 <div class="entry-content">
@@ -85,7 +85,7 @@
 
                                 <h3 class="entry-title flex flex-wrap align-items-center pt-4">
                                     
-                                    <span class="lecture-group-title sub-heading">OUR CLASSROOMS</span>
+                                    <span class="lecture-group-title sub-heading">Our classrooms</span>
                                     
                                 </h3>
 
@@ -97,7 +97,7 @@
                                 </div>
                                 <h3 class="entry-title flex flex-wrap align-items-center  pt-4">
                                     
-                                    <span class="lecture-group-title sub-heading">FACULTIES</span>
+                                    <span class="lecture-group-title sub-heading">Faculties</span>
                                     
                                 </h3>
 
@@ -109,7 +109,7 @@
                                 </div>
                                 <h3 class="entry-title flex flex-wrap align-items-center  pt-4">
                                    
-                                    <span class="lecture-group-title sub-heading">PLACEMENT</span>
+                                    <span class="lecture-group-title sub-heading">Placement</span>
                                     
                                 </h3>
 

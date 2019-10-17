@@ -31,7 +31,7 @@
 
                                 <h3 class="entry-title flex flex-wrap justify-content-between align-items-lg-center">
                                     <span class="arrow-r"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span>
-                                    <span class="lecture-group-title">Identity Access Management & S3</span>
+                                    <span class="lecture-group-title">Identity access management & S3</span>
                                     <span class="number-of-lectures"></span>
                                     <span class="total-lectures-time"></span>
                                 </h3>
@@ -59,11 +59,11 @@
 
                                 <div class="entry-content pl-5">
                                     <ul class="p-0 m-0">
-                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">EC2 Intro</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
+                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">EC2 intro</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Security groups basics</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">EBS intro</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Volumes & snapshots</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
-                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">AMI types (EBS vs Instance store)</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
+                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">AMI types (EBS vs instance store)</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Encrypted root device volumes & snapshots</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">CloudWatch</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">The AWS command line</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
@@ -144,7 +144,7 @@
                                     <ul class="p-0 m-0">
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Load balancers theory</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Advanced load balancer theory</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
-                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">AutoScaling</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
+                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Autoscaling</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">HA architecture</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Cloudformation</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Elastic beanstalk</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>

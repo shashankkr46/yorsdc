@@ -70,11 +70,11 @@
 
                                 <div class="entry-content pl-5">
                                     <ul class="p-0 m-0">
-                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">numbers</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
-                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">strings</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
-                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">list </span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
-                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">tuple</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
-                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">dictionary</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
+                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Numbers</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
+                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Strings</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
+                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">List </span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
+                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Tuple</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
+                                        <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Dictionary</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                         <li class="flex flex-column flex-lg-row align-items-lg-center"><span class="lecture-title">Other core types</span><span class="lectures-preview"></span><span class="lectures-time text-left text-lg-right"></span></li>
                                     </ul>
                                 </div>
