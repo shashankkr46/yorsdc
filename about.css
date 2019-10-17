@@ -2760,9 +2760,22 @@ p.footer-copyright {
 }
 .sub-heading
 {
-    font-size: 0.7em;
+    font-size: 0.9em;
     font-weight: normal;
     border-style: solid;
     border-color: grey;
     border-width: 0px;
+}
+.sub-heading-para
+{
+    font-size: 0.9em;
+    font-weight: lighter;
+    border-style: solid;
+    border-color: grey;
+    border-width: 0px;
+}
+.breadcumb
+{
+    padding-left: 0rem;
+    margin-left: 0rem;
 }
